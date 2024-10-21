@@ -1,6 +1,6 @@
 # C++ Machine Learning Models
 
-Implementation of machine learning algorithms in C++, built from scratch. Demonstrates proficiency in ML concepts, modern C++, and software engineering practices.
+Implementation of machine learning algorithms, built from scratch.
 
 ## Models
 - Linear Regression
