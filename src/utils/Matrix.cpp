@@ -1,4 +1,3 @@
-// src/utils/Matrix.cpp
 #include "utils/Matrix.hpp"
 #include <cmath>
 #include <algorithm>
