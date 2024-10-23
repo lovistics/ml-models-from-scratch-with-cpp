@@ -1,4 +1,3 @@
-// include/models/Model.hpp
 #pragma once
 
 #include <vector>
