@@ -1,6 +1,6 @@
-# C++ Machine Learning Models
+# Machine Learning Models from Scratch
 
-Implementation of machine learning algorithms, built from scratch.
+Implementation of machine learning algorithms.
 
 ## Models
 - Linear Regression
