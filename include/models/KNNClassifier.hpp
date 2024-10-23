@@ -1,4 +1,3 @@
-// include/models/KNNClassifier.hpp
 #pragma once
 
 #include "Model.hpp"
