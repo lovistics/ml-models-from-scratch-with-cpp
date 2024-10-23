@@ -1,4 +1,3 @@
-// include/data/DataLoader.hpp
 #pragma once
 
 #include <string>
