@@ -1,4 +1,3 @@
-// include/utils/Statistics.hpp
 #pragma once
 
 #include <vector>
