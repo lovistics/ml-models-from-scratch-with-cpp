@@ -1,4 +1,3 @@
-// include/models/LogisticRegression.hpp
 #pragma once
 
 #include "Model.hpp"
