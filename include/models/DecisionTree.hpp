@@ -1,4 +1,3 @@
-// include/models/DecisionTree.hpp
 #pragma once
 
 #include "Model.hpp"
