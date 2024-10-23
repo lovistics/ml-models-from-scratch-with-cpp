@@ -1,4 +1,3 @@
-// include/models/LinearRegression.hpp
 #pragma once
 
 #include "Model.hpp"
